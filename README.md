@@ -98,7 +98,6 @@ Un jeu de chasse au trésor sur une grille. Vous disposez d’un nombre limité 
 
 - 🐍 Python 3
 - 🧪 Librairies standards : `random`, `math`
-- 💻 Interface en ligne de commande (CLI)
 
 ---
 
