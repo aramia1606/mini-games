@@ -9,7 +9,7 @@ hanged = [
 ]   
 
 import random
-with open("python\\hangman_words.txt", "r") as f: 
+with open("\hangman_words.txt", "r") as f: 
     words =  f.readlines()
     words = [word.rstrip('\n') for word in words]
 
